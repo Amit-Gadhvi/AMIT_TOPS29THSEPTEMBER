@@ -1,0 +1,17 @@
+h1{
+
+	text-align: center;
+	color: navy;
+	font-family: algerian;
+}
+
+div{
+	width: 1340px;
+	height:500px;
+	font-family: Calibri;
+	border: 5px solid black;
+}
+
+div p{
+	font-size: 20px;
+}
